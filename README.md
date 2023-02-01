@@ -66,6 +66,8 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
     - Comments section at bottom of page
     - Delete comment button (only shown to comment's author)
 - Profile page (URL: /#/@username, /#/@username/favorites )
+
+Cengiz
     - Show basic user info
     - List of articles populated from author's created articles or author's favorited articles
 
